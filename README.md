@@ -61,7 +61,7 @@ ajoute tes modif :
 Enregistre des instantanés de fichiers de façon permanente dans
 l'historique des versions :
 
-> ` git commit -m "[message descriptif]"
+> ` git commit -m "[message descriptif]"`
 
 
 
