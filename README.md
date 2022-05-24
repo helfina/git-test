@@ -37,7 +37,7 @@ https://github.com/helfina/git-test/blob/master/github-git-cheat-sheet.pdf
 
 `git config --global user.name "tonNom"`
 
-`git config --gobal user.email 'tonMail"`
+`git config --global user.email "tonMail"`
 
 - installe ton projet :
 
